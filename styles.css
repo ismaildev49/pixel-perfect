@@ -13,7 +13,7 @@ body {
 
 .container {
   max-width: 80vw;
-  max-height: 70vh;
+  max-height: 90vh;
   background-color: #f3f3f3;
   margin: auto;
   padding: 6.25rem 3.1875rem 6.25rem 3.125rem;
@@ -47,7 +47,7 @@ body {
 }
 
 .card {
-  margin: 2.375rem 0 0px 0;
+  margin: 2.375rem 0 100px 0;
   width: 12.5rem;
   height: 18.75rem;
   display: flex;
@@ -55,6 +55,7 @@ body {
   border-radius: .9375rem;
   background: #fff;
   box-shadow: 0px .25rem .25rem 0px rgba(0, 0, 0, 0.25);
+  margin-bottom: 6.25rem;
 }
 .image {
   width: 12.5rem;
@@ -91,14 +92,12 @@ body {
 }
 
 footer {
-  width: 100vw;
-  height: 20vh;
-  background-color: #3a3a3a;
-  position: fixed;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: auto;
+ background-color: #3A3A3A;
+ width: 90rem;
+ 
+height: 10vh;
+text-align: center;
+padding: 2.375rem;
 }
 footer p {
   color: #fff;
