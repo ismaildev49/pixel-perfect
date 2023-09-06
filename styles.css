@@ -13,7 +13,7 @@ body {
 
 .container {
   max-width: 80vw;
-  max-height: 90vh;
+  height: 90vh;
   background-color: #f3f3f3;
   margin: auto;
   padding: 6.25rem 3.1875rem 6.25rem 3.125rem;
@@ -94,10 +94,10 @@ body {
 footer {
   background-color: #3a3a3a;
   width: 100vw;
-
   height: 10vh;
   text-align: center;
   padding: 2.375rem;
+  position: fixed;
 }
 footer p {
   color: #fff;
