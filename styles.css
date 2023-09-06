@@ -22,7 +22,7 @@ body {
 .container h1 {
   width: 63.0625rem;
   line-height: 1rem;
-  font-size: .875rem;
+  font-size: 0.875rem;
   font-weight: 300;
   color: #000;
   line-height: 1rem;
@@ -31,7 +31,7 @@ body {
   text-align: right;
   font-size: 1rem;
   font-weight: 800;
-  letter-spacing: .07rem;
+  letter-spacing: 0.07rem;
   line-height: 1.1875rem;
 }
 .container > p {
@@ -52,9 +52,9 @@ body {
   height: 18.75rem;
   display: flex;
   flex-direction: column;
-  border-radius: .9375rem;
+  border-radius: 0.9375rem;
   background: #fff;
-  box-shadow: 0px .25rem .25rem 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0.25rem 0.25rem 0px rgba(0, 0, 0, 0.25);
   margin-bottom: 6.25rem;
 }
 .image {
@@ -65,21 +65,21 @@ body {
 .image img {
   width: 100%;
   max-height: 100%;
-  border-radius: .9375rem .9375rem 0px 0px;
+  border-radius: 0.9375rem 0.9375rem 0px 0px;
 }
 .p1 {
   margin-top: 1.25rem;
   margin-left: 1.25rem;
   color: #000;
-  font-size: .875rem;
+  font-size: 0.875rem;
   font-weight: 700;
-  letter-spacing: .035rem;
+  letter-spacing: 0.035rem;
 }
 
 .p2 {
-  font-size: .875rem;
+  font-size: 0.875rem;
   font-weight: 300;
-  padding: .1875rem 0 .625rem 1.25rem;
+  padding: 0.1875rem 0 0.625rem 1.25rem;
   line-height: 1rem;
 }
 
@@ -92,16 +92,16 @@ body {
 }
 
 footer {
- background-color: #3A3A3A;
- width: 90rem;
- 
-height: 10vh;
-text-align: center;
-padding: 2.375rem;
+  background-color: #3a3a3a;
+  width: 100vw;
+
+  height: 10vh;
+  text-align: center;
+  padding: 2.375rem;
 }
 footer p {
   color: #fff;
-  font-size: .875rem;
+  font-size: 0.875rem;
   font-weight: 700;
   line-height: 1rem;
 }
